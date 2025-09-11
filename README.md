@@ -1,1 +1,1 @@
-## Repo where I upload exercises/projects from classes, contest entries, basically anything related to my graduation.
+## Repo where I upload exercises/projects from classes, contest entries and other code related to my graduation.
