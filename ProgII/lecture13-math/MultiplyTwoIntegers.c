@@ -3,17 +3,17 @@
 
 int mult(int a, int b)
 {
-    if (a < b)
+    if (b == 0)
     {
-        return mult(b, a);
+        return 0;
     }
-    else if (b != 0)
+    else if (b < 0)
     {
-        return (a + mult(a, b - 1));
+        return -mult(a, -b);
     }
     else
     {
-        return 0;
+        return (a + mult(a, b - 1));
     }
 }
 
