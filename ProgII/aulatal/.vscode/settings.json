@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "concat_queue": "c",
+        "__locale": "c",
+        "vector.h": "c"
+    }
+}
